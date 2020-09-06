@@ -1,3 +1,6 @@
 Tokamak/
 .ipynb_checkpoints/
 *.png
+*files/
+*.ipynb
+
